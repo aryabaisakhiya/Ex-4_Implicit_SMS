@@ -1,6 +1,5 @@
-
 # Ex.No:4 Design an android application Send SMS using Intent.
-
+# Date:
 
 ## AIM:
 
